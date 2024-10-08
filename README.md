@@ -2,7 +2,7 @@
 
 My name is Ian, I'm a first year Computer Science student at Toronto Metropolitan University! 💻
 
-- 🔭 I’m currently working on an full stack inventory management app.
+- 🔭 I’m currently working on an full stack swe projects.
 - 👯 I’m looking to collaborate on summer 2025 hackathons.
 - 👀 I'm on the look out for summer 2025 internships!
 - 🌱 I’m currently learning mongoDB and Postgres.
